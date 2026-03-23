@@ -1,0 +1,48 @@
+{
+  "lastUpdated": "2026-03-23T15:34:00Z",
+  "actionRequired": [
+    {
+      "title": "配置 GitHub Pages 部署",
+      "url": "https://github.com/settings/pages",
+      "priority": "medium"
+    }
+  ],
+  "activeNow": [
+    {
+      "task": "配置 Mission Control 仪表板",
+      "model": "kimi-k2.5",
+      "startedAt": "2026-03-23T15:08:00Z"
+    }
+  ],
+  "products": [
+    {
+      "name": "OpenClaw Agent",
+      "url": "http://127.0.0.1:18789/",
+      "status": "live",
+      "lastChecked": "2026-03-23T15:34:00Z"
+    }
+  ],
+  "crons": [],
+  "recentActivity": [
+    {
+      "time": "2026-03-23T15:27:00Z",
+      "event": "✅ 安装 jqlong17/download-tools"
+    },
+    {
+      "time": "2026-03-23T15:16:00Z",
+      "event": "✅ 安装 tahseen137/agent-dashboard"
+    },
+    {
+      "time": "2026-03-23T15:13:00Z",
+      "event": "✅ 安装 jankutschera/adhd-founder-planner"
+    },
+    {
+      "time": "2026-03-23T15:11:00Z",
+      "event": "✅ 安装 coderaven/2nd-brain"
+    },
+    {
+      "time": "2026-03-23T15:08:00Z",
+      "event": "🎯 开始安装技能"
+    }
+  ]
+}
